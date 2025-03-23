@@ -4,4 +4,4 @@ An open source, modern text editor for macOS other apple platforms coming someti
 its a text editor.
 
 APP ICON MADE BY:
-![anaheim](https://www.youtube.com/@Anaheim-u7z)
+[anaheim](https://www.youtube.com/@Anaheim-u7z)
