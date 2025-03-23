@@ -5,3 +5,4 @@ its a text editor.
 
 APP ICON MADE BY:
 [anaheim](https://www.youtube.com/@Anaheim-u7z)
+(AKA @jpbandroid on github)
